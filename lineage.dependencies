@@ -6,21 +6,17 @@
   {
     "repository": "vendor_redmi_rosemary",
     "target_path": "vendor/redmi/rosemary",
-    "branch": "thirteen",
   },
   {
     "repository": "vendor_redmi_rosemary-firmware",
     "target_path": "vendor/redmi/rosemary-firmware",
-    "branch": "thirteen",
   },
   {
     "repository": "device_mediatek_sepolicy_vndr",
     "target_path": "device/mediatek/sepolicy_vndr",
-    "branch": "thirteen",
   },
   {
     "repository": "hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "thirteen",
   }
 ]
