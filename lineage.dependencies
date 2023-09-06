@@ -14,27 +14,27 @@
     "branch": "thirteen",
   },
   {
-    "repository": "vendor_mediatek-opensource",
+    "repository": "android_vendor_mediatek-opensource",
     "target_path": "vendor/mediatek/opensource",
     "branch": "thirteen",
   },
   {
-    "repository": "vendor_mediatek_interfaces",
+    "repository": "android_vendor_mediatek_interfaces",
     "target_path": "vendor/mediatek/interfaces",
     "branch": "thirteen",
   },
   {
-    "repository": "device_mediatek_common",
+    "repository": "android_device_mediatek_common",
     "target_path": "device/mediatek/common",
     "branch": "thirteen",
   },
   {
-    "repository": "PixelExperience/device_mediatek_sepolicy_vndr",
+    "repository": "android_device_mediatek_sepolicy_vndr",
     "target_path": "device/mediatek/sepolicy_vndr",
     "branch": "thirteen"
   },
   {
-    "repository": "PixelExperience/hardware_xiaomi",
+    "repository": "android_hardware_xiaomi",
     "target_path": "hardware/xiaomi",
     "branch": "thirteen"
   }
