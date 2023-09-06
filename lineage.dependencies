@@ -20,7 +20,7 @@
     "target_path": "hardware/xiaomi",
   },
   {
-    "repository": "android_hardware_mediatek",
+    "repository": "hardware_mediatek",
     "target_path": "hardware/mediatek"
   }
 ]
