@@ -16,7 +16,7 @@
   {
     "repository": "device_mediatek_sepolicy_vndr",
     "target_path": "device/mediatek/sepolicy_vndr",
-    "branch": "thirteen"
+    "branch": "thirteen",
   },
   {
     "repository": "hardware_xiaomi",
