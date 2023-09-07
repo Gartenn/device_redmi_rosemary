@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/hentai_rosemary.mk
+	$(LOCAL_DIR)/nitrogen_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    $(foreach variant, user userdebug eng, hentai_rosemary-$(variant))
+    $(foreach variant, user userdebug eng, nitrogen_rosemary-$(variant))
